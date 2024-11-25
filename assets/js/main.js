@@ -149,7 +149,7 @@ $(".menu-close, .offCanvas__overly").on("click", function () {
 /*=============================================
 	=          Slider active              =
 =============================================*/
-var swiper2 = new Swiper(".slider__active", {
+var swiper2 = new Swiper(".slider__active", {    
     spaceBetween: 0,
     effect: "fade",
     loop: true,
